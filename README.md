@@ -1,0 +1,1 @@
+**Repositório** que contém alguns scripts simples em python para tratar arquivos.
