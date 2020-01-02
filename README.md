@@ -6,7 +6,7 @@
         Exemplo:
             python csv_to_xlsx.py nome_arquivo  
             ---------------!!Alerta!!--------------
-             Não é necessario passar a extensão do arquivo
+             Não é necessario passar a extensão do arquivo.
 - **xlsx_to_csv.py** 
         
         Recebe na chamada o caminho absoluto do arquivo xlsx e converte para um arquivo .csv(O caminho também é passado na chamada).
@@ -24,4 +24,4 @@
         Exemplo:
             python qtd_linhas_xlsx.py arquivo
             ---------------!!Alerta!!--------------
-             Não é necessario passar a extensão do arquivo
+             Não é necessario passar a extensão do arquivo.
