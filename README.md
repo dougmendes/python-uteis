@@ -28,7 +28,7 @@
 
 - **cpf-fill.py** 
 
-        Recebe um arquivo xlsx como parametro o nome da coluna que tem o CPF e o nome do arquivo de saida(csv).
+        Recebe um arquivo xlsx como parametro, nome da coluna que tem o CPF e o nome do arquivo de saida(csv).
         Recebe uma planilha xlsx e o nome da coluna que o cpf se encontra, verifica cada elemento da coluna, se possuir menos de 11 números é preenchido com 0 a esquerda
         Exemplo:
             python arquivos_clientes.py CPF/CNPJ arquivo_saida.csv
